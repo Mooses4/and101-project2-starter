@@ -35,8 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' alt='Video Demo' />
-
+<img src='https://submissions.us-east-1.linodeobjects.com/and101/lSzHkXgg.gif' title='Video Demo' alt='Video Demo' />
 GIF created with **ScreenToGif**
 
 ## Notes
